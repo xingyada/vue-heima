@@ -7,5 +7,5 @@ module.exports = {
       "libraryName": "mint-ui",
       "style": true
     }
-  ]]
+   ], ['transform-remove-strict-mode']]
 }
