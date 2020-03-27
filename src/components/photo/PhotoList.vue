@@ -23,7 +23,7 @@
 
 
 <script>
-//import mui from "../../lib/mui/js/mui.js";
+import mui from "../../lib/mui/js/mui.js";
 
 export default {
     data() {
@@ -54,9 +54,9 @@ export default {
         this.getImgListByCateId(0)
     },
     mounted() {
-      /*   mui(".mui-scroll-wrapper").scroll({
+        mui(".mui-scroll-wrapper").scroll({
             deceleration: 0.0005
-        }); */
+        }); 
     }
 };
 </script>

@@ -7,5 +7,6 @@ module.exports = {
       "libraryName": "mint-ui",
       "style": true
     }
-   ], ['transform-remove-strict-mode']]
+   ], ['transform-remove-strict-mode']],
+  "ignore": ["./lib/mui/js/mui.js", "./lib/mui/js/mui.min.js"]
 }

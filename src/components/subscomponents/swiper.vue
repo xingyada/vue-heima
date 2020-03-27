@@ -21,7 +21,7 @@ export default {
 
 <style lang="scss" scoped>
     .mint-swipe{
-        height: 200px;
+        height: 250px;
         text-align: center;
         .mint-swipe-item{
           img{
